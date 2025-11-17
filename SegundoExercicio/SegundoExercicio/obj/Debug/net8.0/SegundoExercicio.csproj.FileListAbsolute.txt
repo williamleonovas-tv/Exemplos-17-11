@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.exe
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.deps.json
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.runtimeconfig.json
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.dll
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.pdb
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.AssemblyInfo.cs
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.dll
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\refint\SegundoExercicio.dll
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.pdb
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.genruntimeconfig.cache
+C:\Users\user\source\repos\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\ref\SegundoExercicio.dll
